@@ -2,7 +2,7 @@
 
 install using:
 
-    pip install pandata .
+    pip install .
 
 Using the `-e` flag allows editing of the module while in the python path.
 
